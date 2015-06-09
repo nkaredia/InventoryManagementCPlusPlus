@@ -1,0 +1,38 @@
+Welcome to the Memory Lane inventory system program
+
+Please enter your cashier ID: 
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: 
+Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): 
+Sub Total: $31.31
+Tax (13%): $4.07
+Final Total: $35.38
+
+Finalize the transaction (y/n)? 
+Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): 
+Sub Total: $41.07
+Tax (13%): $5.34
+Final Total: $46.41
+
+Finalize the transaction (y/n)? 
+Invoice complete, data updated.
+
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: 
+Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): 
+Sub Total: $5.76
+Tax (13%): $0.75
+Final Total: $6.51
+
+Finalize the transaction (y/n)? 
+Invoice complete, data updated.
+
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: 
+Good Bye

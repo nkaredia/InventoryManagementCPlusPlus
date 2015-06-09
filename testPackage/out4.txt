@@ -1,0 +1,59 @@
+Welcome to the Memory Lane inventory system program
+
+Please enter your cashier ID: Invalid entry, please try again
+Please enter your cashier ID: Invalid entry, please try again
+Please enter your cashier ID: Invalid entry, please try again
+Please enter your cashier ID: Invalid entry, please try again
+Please enter your cashier ID: Invalid entry, please try again
+Please enter your cashier ID: 
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: Invalid entry, please try again
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: Invalid entry, please try again
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: Invalid entry, please try again
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: Invalid entry, please try again
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: 
+Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): Invalid entry, please try again
+Enter UPC (0 to finish): 
+Sub Total: $7.86
+Tax (13%): $1.02
+Final Total: $8.88
+
+Finalize the transaction (y/n)? Invalid entry, please try again
+
+Finalize the transaction (y/n)? Invalid entry, please try again
+
+Finalize the transaction (y/n)? Invalid entry, please try again
+
+Finalize the transaction (y/n)? Invalid entry, please try again
+
+Finalize the transaction (y/n)? Invalid entry, please try again
+
+Finalize the transaction (y/n)? 
+Invoice complete, data updated.
+
+1. Start a new invoice
+0. Quit
+
+Please select what you would like to do: 
+Good Bye

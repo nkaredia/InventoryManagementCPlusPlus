@@ -1,0 +1,6 @@
+Error: 16299302 stock was in error, attempted to drop below zero
+Error: 11678532 stock was in error, attempted to drop below zero
+Error: 16299302 stock was in error, attempted to drop below zero
+Warning: 98563042 has run out of stock
+Error: 34267182 stock was in error, attempted to drop below zero
+Error: 11678532 stock was in error, attempted to drop below zero
